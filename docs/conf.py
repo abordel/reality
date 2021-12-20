@@ -49,7 +49,7 @@ html_theme = 'sphinx_book_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_title = 'Reality'
-html_logo = '_static/16200025290_67db962668_o.jpg'
+html_logo = '_static/16200025290_67db962668_o_edit.jpg'
 html_favicon = '_static/Simple_Labarum2.ico'
 
 html_theme_options = {"toc_title": "On This Page",
